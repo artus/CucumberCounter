@@ -69,7 +69,7 @@ public class Counter
      */
     public int decrease()
     {
-        return this.decrease(0);
+        return this.decrease(1);
     }
 
     /**
