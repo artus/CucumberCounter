@@ -1,4 +1,4 @@
-package be.artusvranken.counter;
+package be.artusvranken.counter.domain;
 
 /**
  * A Counter is an object used to keep track of a certain amount of things. Its count can be increased, decreased and reset.
